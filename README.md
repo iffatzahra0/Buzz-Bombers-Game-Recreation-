@@ -18,10 +18,10 @@ A fast-paced arcade-style shooter game where you battle waves of buzzing enemies
 - **Language:** C++
 - **Library:** SFML
 - **Platform:** Ubuntu
-### How to run?
- write in terminal 
+
+## How to compile
+ write in terminal
+
  g++ main.cpp -o game -lsfml-graphics -lsfml-window -lsfml-system -static-libgcc -static-libstdc++
+ 
  make
-
-
-
